@@ -4,16 +4,16 @@
 
 ### Hi there 👋
 
-Greetings!  This is Paulo.  Nice to meet you!
+✨ Greetings!  This is Paulo.  Nice to meet you! ✨
 
 ### Currently...
 
-- 🔭 I’m currently working on:
-         * As an Independent Consultant specializing in Data Science, Machine Learning, GCP, Six-Sigma, and Statistical Process Control.  
-         * As well as, building fullstack apps in JS, Bootstrap and Flask.
+- 🔭 I’m currently working:
+         * As an Independent Consultant specializing in DS/ML life cycle, GCP, 6-Sigma, and Statistical Process Control.  
+         * On Building fullstack apps in JS, Bootstrap and Flask.
 
 - 🌱 I’m currently learning:  
-         * Full stack Machine Learning --> Creating ML Apps using Streamlit, FastAPI amd Flask.
+         * Full stack Machine Learning --> Creating ML Apps using Streamlit, FastAPI, React amd Flask.
          * Kubernetes
          * Deep Learning
 
