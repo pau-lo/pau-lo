@@ -8,14 +8,26 @@ Greetings!  This is Paulo.  Nice to meet you!
 
 ### Currently...
 
-- 🔭 I’m currently working on: As an Independent Consultant specializing in Data Science, Machine Learning, GCP, Six-Sigma, and Statistical Process Control.  As well as, building fullstack apps in JS, Bootstrap and Flask.
+- 🔭 I’m currently working on:
+          - As an Independent Consultant specializing in Data Science, Machine Learning, GCP, Six-Sigma, and Statistical Process Control.  
+          - As well as, building fullstack apps in JS, Bootstrap and Flask.
 
-- 🌱 I’m currently learning:  Full stack Machine Learning --> Creating ML Apps using Streamlit, FastAPI amd Flask.
+- 🌱 I’m currently learning:  
+          - Full stack Machine Learning --> Creating ML Apps using Streamlit, FastAPI amd Flask.
+          - Kubernetes
+          - Deep Learning
 
-- 👯 I’m looking to collaborate on ML related stuff and contributing to the DS/ML community.
+- 👯 I’m looking to collaborate on:
+          - ML related stuff and contributing to the DS/ML community.
 
-- ⚡ Fun fact: Fan of Golang.  Grew up in San Francisco, CA enjoying baseball, basketball, soccer, football and rugby.  
-I am an **Artist** at heart and a jazz aficionado! Really like to play drums and a bit of guitar when I am not doing ML stuff.
+- ⚡ Fun fact: 
+          - Fan of Golang.  
+          - Grew up in San Francisco, CA.
+          - Enjoy baseball, basketball, soccer, football and rugby.  
+          - An **Artist** at heart
+          - A Jazz aficionado!
+          - Really like to play drums and a bit of guitar when I am not doing ML stuff.
+          
 
 
 
