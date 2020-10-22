@@ -1,6 +1,6 @@
 
+<img src="https://github.com/pau-lo/pau-lo/blob/main/assets/best.png" width=200 align=center>
 
-![Alt image](https://github.com/pau-lo/pau-lo/blob/main/assets/best.png)
 
 ### Hi there 👋
 
