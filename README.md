@@ -21,17 +21,17 @@
          ⏳ On Building fullstack apps in JS, Bootstrap and Flask.
 
 - 🌱 I’m currently learning:  
-         📚 Full stack Machine Learning --> Creating ML Apps using Streamlit, FastAPI, React amd Flask.
+         📚 Full stack Machine Learning --> Creating ML Apps using Streamlit, FastAPI, React and Flask.
          📚 Kubernetes.
          📚 Deep Learning - Computer Vision related stuff
 
 - 👯 I’m looking to collaborate on:
-          * ML related stuff and contributing to the DS/ML community.
+           ML related stuff and contributing to the DS/ML community.
 
-- ⚡ Fun fact: 🥁🎸🎶🎼🎼🎼
-        * An **Artist** at heart
-         * A Jazz aficionado!
-         * Really like to play drums and a bit of guitar when I am not doing ML stuff.
+- ⚡ Fun fact: 🥁🎸🎼🎼🎼
+        🎶 An **Artist** at heart
+         🎶 A Jazz aficionado!
+         🎶 Really like to play drums and a bit of guitar when I am not doing ML stuff.
           
   
           
