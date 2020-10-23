@@ -1,32 +1,39 @@
 
 <img src="https://github.com/pau-lo/pau-lo/blob/main/assets/best.png" width=200 align=center>
 
-
 ### Hi there 👋
 
-✨ Greetings!  This is Paulo.  Nice to meet you! ✨
+✨ Greetings! from Paulo.  Nice to meet you! ✨
+
+📫 How to reach me: 
+
+[![](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/paulorlopez/)
+[![](https://img.icons8.com/color/32/000000/twitter.png)](https://twitter.com/_paulo_lopez_)
+[![](https://img.icons8.com/plasticine/32/000000/gmail.png)](mailto:paulo.lopez@protonmail.com?Subject=From_GitHub)
+
+[![Paulo's github stats](https://github-readme-stats.vercel.app/api?username=pau-lo&hide=stars&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/pau-lo/github-readme-stats)
 
 ### Currently...
 
 - 🔭 I’m currently working:
-         * As an Independent Consultant specializing in DS/ML life cycle, GCP, 6-Sigma, and Statistical Process Control.  
-         * On Building fullstack apps in JS, Bootstrap and Flask.
+         ⏳ As an Independent Consultant specializing in DS/ML life cycle, GCP, 6-Sigma, and Statistical Process Control.  
+         ⏳ Training AV's
+         ⏳ On Building fullstack apps in JS, Bootstrap and Flask.
 
 - 🌱 I’m currently learning:  
-         * Full stack Machine Learning --> Creating ML Apps using Streamlit, FastAPI, React amd Flask.
-         * Kubernetes
-         * Deep Learning
+         📚 Full stack Machine Learning --> Creating ML Apps using Streamlit, FastAPI, React amd Flask.
+         📚 Kubernetes.
+         📚 Deep Learning - Computer Vision related stuff
 
 - 👯 I’m looking to collaborate on:
           * ML related stuff and contributing to the DS/ML community.
 
-- ⚡ Fun fact: 
-          * Fan of Golang.  
-          * Grew up in San Francisco, CA.
-          * Enjoy baseball, basketball, soccer, football and rugby.  
-          * An **Artist** at heart
-          * A Jazz aficionado!
-          * Really like to play drums and a bit of guitar when I am not doing ML stuff.
+- ⚡ Fun fact: 🥁🎸🎶🎼🎼🎼
+        * An **Artist** at heart
+         * A Jazz aficionado!
+         * Really like to play drums and a bit of guitar when I am not doing ML stuff.
+          
+  
           
 
 
@@ -35,17 +42,3 @@
      
 
 
-<!--
-**pau-lo/pau-lo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
