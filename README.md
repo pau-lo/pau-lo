@@ -21,7 +21,7 @@
       Building fullstack apps in JS, Bootstrap and Flask.
 
 - 🌱 I’m currently learning:  
-      **Full stack Machine Learning** -> Creating ML Apps using Reach, Streamlit, FastAPI and Flask.
+      **Full stack Machine Learning** -> Creating ML Apps using React, Streamlit, FastAPI and Flask.
       **Kubernetes**.
       **Deep Learning** -> Computer Vision related stuff.
 
