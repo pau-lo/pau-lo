@@ -3,7 +3,7 @@
 
 ### Hi, there 👋
 
-✨ Greetings! Nice to meet you! ✨
+✨ Nice to meet you! ✨
 
 📫 How to reach me: 
 
