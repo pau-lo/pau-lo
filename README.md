@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-✨ Greetings! from Paulo.  Nice to meet you! ✨
+✨ Greetings! Nice to meet you! ✨
 
 📫 How to reach me: 
 
