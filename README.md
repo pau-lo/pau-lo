@@ -16,9 +16,8 @@
 ### Currently...
 
 - 🌱 I’m currently learning:  
-      **Full stack Machine Learning** -> Creating ML Apps using React, Streamlit, FastAPI and Flask.
-      **Kubernetes**.
-      **Deep Learning** -> Computer Vision related stuff.
+      **Machine Learning**  Creating ML Apps using Streamlit, FastAPI and Flask.
+      **Docker** and **Deep Learning** mostly Computer Vision health care related stuff.
 
 - 👯 I’m looking to collaborate on:
            ML related stuff and contributing to the DS/ML community.
