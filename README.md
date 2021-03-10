@@ -1,6 +1,3 @@
-
-<img src="https://github.com/pau-lo/pau-lo/blob/main/assets/best.png" width=200 align=center>
-
 ### Hi, there 👋
 
 ✨ Nice to meet you! ✨
