@@ -16,16 +16,19 @@
 ### Currently...
 
 - 🌱 I’m currently learning:  
-      **Machine Learning**  Creating ML Apps using Streamlit, FastAPI and Flask.
-      **Docker** and **Deep Learning** mostly Computer Vision health care related stuff.
+      - **Computer Vision** health care related stuff.
+      - Creating ML Apps using Streamlit, FastAPI and Flask.
+      - **Docker** for Data Science and Machine Learning.
 
 - 👯 I’m looking to collaborate on:
-           ML related stuff and contributing to the DS/ML community.
+      - ML related stuff and contributing to the DS/ML community.
 
 - ⚡ Fun fact:
-          An **Artist** at heart
-          A **Jazz** aficionado!
-          Enjoy playing **drums** and a bit of **guitar** when I am not doing ML stuff.
+     - An **Artist** at heart
+     - A **Jazz** aficionado!
+     - Enjoy playing **drums** and a bit of **guitar** when I am not doing ML stuff.
+
+Cheers!
           
   
           
