@@ -15,11 +15,6 @@
 
 ### Currently...
 
-- 🔭 I’m currently working:
-      As an Independent Consultant specializing in DS/ML life cycle, GCP, 6-Sigma, and Statistical Process Control. 
-      Training AV's.
-      Building fullstack apps in JS, Bootstrap and Flask.
-
 - 🌱 I’m currently learning:  
       **Full stack Machine Learning** -> Creating ML Apps using React, Streamlit, FastAPI and Flask.
       **Kubernetes**.
