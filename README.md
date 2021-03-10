@@ -18,7 +18,7 @@
      - ML related stuff and contributing to the DS/ML community.
 
 - ⚡ Fun fact:
-     - An **Artist** at heart
+     - An **Artist** at heart!
      - A **Jazz** aficionado!
      - Enjoy playing **drums** and a bit of **guitar** when I am not doing ML stuff.
 
