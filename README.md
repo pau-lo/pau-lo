@@ -16,12 +16,12 @@
 ### Currently...
 
 - 🌱 I’m currently learning:  
-      - **Computer Vision** health care related stuff.
-      - Creating ML Apps using Streamlit, FastAPI and Flask.
-      - **Docker** for Data Science and Machine Learning.
+     - **Computer Vision** health care related stuff.
+     - Creating ML Apps using Streamlit, FastAPI and Flask.
+     - **Docker** for Data Science and Machine Learning.
 
 - 👯 I’m looking to collaborate on:
-      - ML related stuff and contributing to the DS/ML community.
+     - ML related stuff and contributing to the DS/ML community.
 
 - ⚡ Fun fact:
      - An **Artist** at heart
