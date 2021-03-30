@@ -6,7 +6,7 @@
 
 ### Currently...
 
-- 🌱 I’m currently learning:  
+- 🌱 I’m currently working on & learning:  
      - **Computer Vision** health care related stuff.
      - Creating ML Apps using Streamlit, FastAPI and Flask.
      - **Docker** for Data Science and Machine Learning.
