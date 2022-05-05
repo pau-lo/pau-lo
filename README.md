@@ -7,8 +7,11 @@
 ### Currently...
 
 - 🌱 I’m currently working on & learning:  
-     - **Computer Vision** health care related stuff.
-     - Creating ML Apps using Streamlit, FastAPI and Flask.
+     - **Computer Vision** in general.
+     - Healthcare Analytics by using CV.
+     - Smart Mobility technology for transportation engineering. 
+       This includes autonomous, connected, electrified and shared micro-mobility transportation systems.
+     - Creating ML Apps using Streamlit, FastAPI and Flask and Golang.
      - **Docker** for Data Science and Machine Learning.
 
 - 👯 I’m looking to collaborate on:
