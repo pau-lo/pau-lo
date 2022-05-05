@@ -11,7 +11,7 @@
      - Healthcare Analytics by using CV.
      - Smart Mobility technology for transportation engineering. 
        This includes autonomous, connected, electrified and shared micro-mobility transportation systems.
-     - Creating ML Apps using Streamlit, FastAPI and Flask and Golang.
+     - Creating ML Apps using Streamlit, FastAPI, Flask and Golang.
      - **Docker** for Data Science and Machine Learning.
 
 - 👯 I’m looking to collaborate on:
