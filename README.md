@@ -24,12 +24,14 @@
 
 📫 How to reach me: 
 
-   [![](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/paulorlopez/)
+ 
    [![](https://img.icons8.com/color/32/000000/twitter.png)](https://twitter.com/_paulo_lopez_)
    [![](https://img.icons8.com/plasticine/32/000000/gmail.png)](mailto:paulo.lopez@protonmail.com?Subject=From_GitHub)
 
 
-Cheers!
+Cheers! 
+
+Happy codinbg!
           
   
           
