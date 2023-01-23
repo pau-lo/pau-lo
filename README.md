@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently working on & learning:  
      - **Computer Vision** in general.
-     - Healthcare Analytics by using CV.
      - Smart Mobility technology for transportation engineering. 
        This includes autonomous, connected, electrified and shared micro-mobility transportation systems.
      - Creating ML Apps using Streamlit, FastAPI, Flask and Golang.
