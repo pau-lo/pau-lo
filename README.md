@@ -2,8 +2,8 @@
 
 ✨ Nice to meet you! ✨
 
-
-<--[![Paulo's github stats](https://github-readme-stats.vercel.app/api?username=pau-lo&hide=stars&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/pau-lo/github-readme-stats)-->
+<!--
+[![Paulo's github stats](https://github-readme-stats.vercel.app/api?username=pau-lo&hide=stars&count_private=true&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/pau-lo/github-readme-stats)-->
 
 ### Currently...
 
