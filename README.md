@@ -26,7 +26,7 @@
 
  
    [![](https://img.icons8.com/color/32/000000/twitter.png)](https://twitter.com/_paulo_lopez_)
-   [![](https://img.icons8.com/plasticine/32/000000/gmail.png)](mailto:paulo.lopez@protonmail.com?Subject=From_GitHub)
+   [![](https://img.icons8.com/plasticine/32/000000/gmail.png)](mailto:paulo.lopez@proton.me?Subject=From_GitHub)
 
 
 Cheers! 
